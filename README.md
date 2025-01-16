@@ -1,7 +1,7 @@
 # UI5
 
-UI5 related reference  
-[Upload data from Excel in CAP Node.js](https://community.sap.com/t5/technology-blogs-by-members/upload-data-from-excel-in-cap-node-js/ba-p/13554121)
+UI5 related reference
+https://community.sap.com/t5/technology-blogs-by-members/upload-data-from-excel-in-cap-node-js/ba-p/13554121
 
 A Fiori elements list report is created to display and upload the data into the tables. An upload button is added as an extension to the List Report Application.
 
